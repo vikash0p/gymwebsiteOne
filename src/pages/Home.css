@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+div#imageOne{
+   background-image: url(../images/HomeImage/info-box-img-1.jpg);
+   height: 308px;
+   background-size: cover;
+   
+}
+div#imageTwo{
+    background-image: url(../images/HomeImage/info-box-img-2.jpg);
+    height: 308px;
+    background-size: cover;
+    
+ }
+ div#imageThree{
+    background-image: url(../images/HomeImage/info-box-img-3.jpg);
+    height: 308px;
+    background-size: cover;
+    
+ }
+.images{
+    height: inherit;
+    padding-top: 50px !important;
+}
+div#sectionThreeImage{
+    background-image: url(../images/HomeImage/h1-parallax-img-1.jpg);
+    background-size: cover;
+    height: 50vw;
+    width: 100vw;
+
+}
+div#itemid{
+    height: inherit  !important;
+}

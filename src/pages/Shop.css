@@ -1,0 +1,17 @@
+div#shoplastimgae{
+    position: relative;
+    background-image: url(../images/ShopImage/h5-parallax-1.jpg);
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1#shoplastHeading{
+    height: inherit;
+    color: white;
+   
+    position: absolute;
+    top:50%;
+    left: 25%;
+    
+    
+}

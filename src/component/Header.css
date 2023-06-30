@@ -1,0 +1,16 @@
+.headerImage{
+    
+    width: 100%;
+    height: 100vh !important;
+    position: relative;
+    
+}
+.headerHeading{
+    
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    text-transform: uppercase;
+    font-size: 60px;
+    
+}

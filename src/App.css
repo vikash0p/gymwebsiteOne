@@ -1,0 +1,14 @@
+
+
+#loader {
+  background-color: rgb(151, 151, 245);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+

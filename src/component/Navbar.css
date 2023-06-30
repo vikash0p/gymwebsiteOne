@@ -1,0 +1,21 @@
+.nav-link{
+    text-transform: uppercase;
+    position: relative;
+    
+}
+.nav-link::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 90%;
+    width: 0%;
+    height: 3px;
+    background-color: black;
+    transition: all 0.5s linear !important;
+    
+   
+}
+.nav-link:hover:before{
+    width: 100%;
+    background-color: blue;
+}
